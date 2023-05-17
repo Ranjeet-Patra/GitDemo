@@ -1,2 +1,2 @@
 # GitDemo
-It's the GIT demo
+It's the GIT demo session
